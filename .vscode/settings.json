@@ -86,7 +86,6 @@
     "autoDocstring.docstringFormat": "numpy",
     "[python]": {
         "editor.formatOnSave": true,
-        "editor.fontFamily": "Inconsolata",
         "editor.fontLigatures": false,
         "editor.rulers": [
             80,
